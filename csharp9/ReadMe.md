@@ -1,8 +1,5 @@
 # List of C# 9 features
 
-[TOC]
-
-
 ## Top-level statements
 
 Самая простая программа на C# выглядит так
