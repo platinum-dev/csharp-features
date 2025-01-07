@@ -15,4 +15,4 @@
 - `C# 10`: [YouTube](https://youtu.be/Gr7r2e8y298) | [Rutube](https://rutube.ru/video/b7f57091cf9668ab7bb525cdfcfb2916/?r=plwd)
 - `C# 11`: [YouTube](https://youtu.be/bMBgDGNhKME) | [Rutube](https://rutube.ru/video/0efac27cc1931bae1448d4e790fed0cd/?r=plwd)
 - `C# 12`: [YouTube](https://youtu.be/ScptPq_6geY) | [Rutube](https://rutube.ru/video/94ff9053392e56df35474c4ea84517b7/?r=plwd)
-- `C# 13`: [YouTube]() | [Rutube]()
+- `C# 13`: [YouTube](https://youtu.be/gGzgn6RbfT0) | [Rutube](https://rutube.ru/video/private/ad5c7191fde45e62a8efc84f5bbbb01b/?p=XEob4LKhrdls_096_0n6Fw)
