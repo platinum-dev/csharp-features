@@ -9,7 +9,7 @@
 ResilientNotifier notifier = new ResilientNotifier();
 
 var action8 = (Action<string>) notifier.Notify;
-// var action9 = notifier.Notify;
+var action9 = notifier.Notify;
 
 class Notifier
 {

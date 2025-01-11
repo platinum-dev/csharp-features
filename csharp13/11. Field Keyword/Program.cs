@@ -1,4 +1,6 @@
-﻿// <LangVersion>preview</LangVersion> must be set in csproj
+﻿Console.WriteLine("Just a hack to make a program compilable");
+
+// <LangVersion>preview</LangVersion> must be set in csproj
 class TimePeriod
 {
     public double Hours {
